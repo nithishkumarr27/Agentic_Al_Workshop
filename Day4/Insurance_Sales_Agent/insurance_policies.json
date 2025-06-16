@@ -1,0 +1,23 @@
+[
+  {
+    "policy_name": "Care Plus Individual",
+    "age_group": "18-45",
+    "type": "individual",
+    "benefits": ["wellness support", "dental care"],
+    "max_dependents": 0
+  },
+  {
+    "policy_name": "Care Senior",
+    "age_group": "60+",
+    "type": "individual",
+    "benefits": ["senior health", "critical illness"],
+    "max_dependents": 0
+  },
+  {
+    "policy_name": "Family Floater 360",
+    "age_group": "25-60",
+    "type": "family",
+    "benefits": ["dental care", "wellness support", "maternity"],
+    "max_dependents": 5
+  }
+]
